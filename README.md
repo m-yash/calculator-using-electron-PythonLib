@@ -1,4 +1,4 @@
 # calculator-using-electron-PythonLib
-The simplest and fastest way to create applications with a Web UI and a Python back-end.
+Simple Calculator using Eel Python Library Electron-like offline HTML/JS GUI 
 
-![Calculator](ui_sample.png)
+<div align=”center”>![Calculator](ui_sample.png)</div>
