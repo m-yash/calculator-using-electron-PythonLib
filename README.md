@@ -7,7 +7,7 @@ Simple Calculator using Eel Python Library (Electron-like offline HTML/JS GUI wi
   * Clone the repo and cd into the directory \
 `$ git clone git@github.com:m-yash/calculator-using-electron-PythonLib.git` \
 `$ cd calculator-using-electron-PythonLib`
-  * Install eel, pyqrcode, and pyinstaller \
+  * Install eel \
 `$ pip install eel`
   * Run the app \
-`$ python QRCode.py`
+`$ python Eelapp.py`
